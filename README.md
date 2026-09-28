@@ -65,5 +65,5 @@ Aplicación web para crear y gestionar salas de usuarios.
 
 ## 📫 Contacto
 
-- 💼 **LinkedIn:** [Tu LinkedIn](https://www.linkedin.com/in/javier-soria-s%C3%A1nchez-126747349/)
+- 💼 **LinkedIn:** [Javier Soria Sanchez](https://www.linkedin.com/in/javier-soria-s%C3%A1nchez-126747349/)
 - 📧 **Email:** javiersoriasanchez71@gmail.com
