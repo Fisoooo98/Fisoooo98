@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Hola, soy [Javier Soria Sanchez]
 
-<!--
-**Fisoooo98/Fisoooo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**☕ Java Developer · Spring Boot · PostgreSQL**
 
-Here are some ideas to get you started:
+> Desarrollador backend enfocado en Java. Me interesa crear aplicaciones web, diseñar APIs y trabajar con bases de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente desarrollo proyectos con **Spring Boot**, **PostgreSQL**, **Thymeleaf** y **WebSockets**, mientras sigo mejorando mis conocimientos de arquitectura y buenas prácticas.
+
+---
+
+## 🛠️ Tecnologías
+
+| Área | Stack |
+|------|-------|
+| **Backend** | `Java` · `Spring Boot` · `Spring MVC` · `WebSockets` |
+| **Bases de datos** | `PostgreSQL` · `SQLite` |
+| **Frontend** | `Thymeleaf` · `HTML` · `CSS` |
+| **Arquitectura y herramientas** | `MVC` · `Git` · `GitHub` · `Maven` |
+
+---
+
+## 🚀 Proyectos destacados
+### 🕵️ Crime Tracker
+Aplicación para gestionar y hacer el seguimiento de casos criminales.
+
+`Java` `MVC` `SQLite`
+
+- Arquitectura MVC con separación de responsabilidades
+- Persistencia de datos
+- Gestión de casos
+
+🔗 [Ver proyecto](https://github.com/Fisoooo98/CrimeTracker)
+
+### 👥 User Rooms
+Aplicación web para crear y gestionar salas de usuarios.
+
+`Java` `Spring Boot` `PostgreSQL` `Thymeleaf`
+
+- Gestión de usuarios
+- Creación y administración de salas
+- Persistencia con PostgreSQL
+
+🔗 [Ver proyecto](https://github.com/Fisoooo98/creador-salas)
+
+---
+
+## 📚 Otros proyectos
+
+| Proyecto | Descripción | Stack | Enlace |
+|----------|-------------|-------|--------|
+| 🃏 **Pokémon Card Game** | Juego de cartas con arquitectura MVC y base de datos | `Java` `MVC` `PostgreSQL` | [Ver](https://github.com/Fisoooo98/PokeTrial) |
+| 🎮 **Tic Tac Toe** | Tres en raya con interfaz gráfica | `Java` `GUI` | [Ver](https://github.com/Fisoooo98/TresenRaya) |
+
+---
+
+## 🎯 Actualmente estoy mejorando en
+
+- Spring Boot y arquitectura de aplicaciones
+- Bases de datos
+- APIs REST
+- WebSockets
+- Buenas prácticas de desarrollo
+
+---
+
+## 📫 Contacto
+
+- 💼 **LinkedIn:** [Tu LinkedIn](https://www.linkedin.com/in/javier-soria-s%C3%A1nchez-126747349/)
+- 📧 **Email:** javiersoriasanchez71@gmail.com
