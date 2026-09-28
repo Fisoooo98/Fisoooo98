@@ -1,4 +1,4 @@
-# 👋 Hola, soy [Javier Soria Sanchez]
+# 👋 Hola, soy Javier Soria Sanchez
 
 **☕ Java Developer · Spring Boot · PostgreSQL**
 
